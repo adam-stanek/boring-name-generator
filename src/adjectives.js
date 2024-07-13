@@ -402,7 +402,7 @@ module.exports = [
   "furtive",
   "future",
   "futuristic",
-  "fuzzy ",
+  "fuzzy",
   "gabby",
   "gainful",
   "gamy",
